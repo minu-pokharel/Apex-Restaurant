@@ -1,5 +1,5 @@
 using ApexRestaurant.Repository.Domain;
-using ApexRestaurant.Repository.RCustomer;
+using ApexRestaurant.Repository;
 
 namespace ApexRestaurant.Services.SCustomer
 {

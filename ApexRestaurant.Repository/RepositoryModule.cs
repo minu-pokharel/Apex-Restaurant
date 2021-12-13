@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using ApexRestaurant.Repository.RCustomer;
+using ApexRestaurant.Repository;
 
 namespace ApexRestaurant.Repository
 {
