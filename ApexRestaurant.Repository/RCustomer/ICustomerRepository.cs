@@ -1,6 +1,6 @@
 using ApexRestaurant.Repository.Domain;
 
-namespace ApexRestaurant.Repository.RCustomer
+namespace ApexRestaurant.Repository
 {
     public interface ICustomerRepository : IGenericRepository<Customer>
     {

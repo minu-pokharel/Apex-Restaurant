@@ -1,6 +1,7 @@
 using ApexRestaurant.Repository.Domain;
+using Microsoft.EntityFrameworkCore;
 
-namespace ApexRestaurant.Repository.RCustomer
+namespace ApexRestaurant.Repository
 {
     public class CustomerRepository : GenericRepository<Customer>, ICustomerRepository
     {

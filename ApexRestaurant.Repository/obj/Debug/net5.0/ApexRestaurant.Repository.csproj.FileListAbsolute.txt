@@ -1,12 +1,5 @@
-D:\project\ApexRestaurant.Repository\bin\Debug\net5.0\ApexRestaurant.Repository.deps.json
-D:\project\ApexRestaurant.Repository\bin\Debug\net5.0\ApexRestaurant.Repository.dll
-D:\project\ApexRestaurant.Repository\bin\Debug\net5.0\ref\ApexRestaurant.Repository.dll
-D:\project\ApexRestaurant.Repository\bin\Debug\net5.0\ApexRestaurant.Repository.pdb
 D:\project\ApexRestaurant.Repository\obj\Debug\net5.0\ApexRestaurant.Repository.csproj.AssemblyReference.cache
 D:\project\ApexRestaurant.Repository\obj\Debug\net5.0\ApexRestaurant.Repository.GeneratedMSBuildEditorConfig.editorconfig
 D:\project\ApexRestaurant.Repository\obj\Debug\net5.0\ApexRestaurant.Repository.AssemblyInfoInputs.cache
 D:\project\ApexRestaurant.Repository\obj\Debug\net5.0\ApexRestaurant.Repository.AssemblyInfo.cs
 D:\project\ApexRestaurant.Repository\obj\Debug\net5.0\ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
-D:\project\ApexRestaurant.Repository\obj\Debug\net5.0\ApexRestaurant.Repository.dll
-D:\project\ApexRestaurant.Repository\obj\Debug\net5.0\ref\ApexRestaurant.Repository.dll
-D:\project\ApexRestaurant.Repository\obj\Debug\net5.0\ApexRestaurant.Repository.pdb
