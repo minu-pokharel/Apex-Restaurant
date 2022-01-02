@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BpiwuUK/7yNaTerdgMDV99nUiwVnotGDs2N725mLFjUBtjuhm2tFJUbm8pg1f+7zWIfGkhEI2Us/xR/N1VJ9yA==",
+  "dgSpecHash": "JzEI7K2nsPHnuapZ6JC6grQKQ6JMSC+ICoWqOUGJuKlrVCuiuSZeqcQ3LDUcuwnf6gDDuQg86Tc9yucU6eGXWw==",
   "success": true,
   "projectFilePath": "D:\\project\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
   "expectedPackageFiles": [
@@ -99,7 +99,8 @@
     "C:\\Users\\minup\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\minup\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\minup\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\minup\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\minup\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\minup\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }
