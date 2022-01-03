@@ -13,6 +13,7 @@ namespace ApexRestaurant.Repository
             options.UseSqlServer(connection, builder =>
             builder.MigrationsAssembly(migrationsAssembly)));
             services.AddTransient<ICustomerRepository, CustomerRepository>();
+            services.AddTransient<IMenuRepository, MenuRepository>();
         }
     }
 }

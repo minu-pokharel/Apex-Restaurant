@@ -15,8 +15,5 @@ namespace ApexRestaurant.Repository.Domain
 
         public string Other_details { get; set; }
 
-
-        
-
     }
 }

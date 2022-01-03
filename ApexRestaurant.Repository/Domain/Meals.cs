@@ -2,7 +2,7 @@ using System;
 
 namespace ApexRestaurant.Repository.Domain
 {
-    public class Meal
+    public class Meals
     {
         public int Id { get; set; }
 

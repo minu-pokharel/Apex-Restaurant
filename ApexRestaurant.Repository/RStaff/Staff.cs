@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ApexRestaurant.Repository
 {
-    public class MealsRepository : GenericRepository<Meals>, IMealsRepository
+    public class StaffRepository : GenericRepository<Staff>, IStaffRepository
     {
-        public MealsRepository(RestaurantContext dbContext)
+        public StaffRepository(RestaurantContext dbContext)
         {
             DbContext = dbContext;
         }
