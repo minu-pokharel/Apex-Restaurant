@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JzEI7K2nsPHnuapZ6JC6grQKQ6JMSC+ICoWqOUGJuKlrVCuiuSZeqcQ3LDUcuwnf6gDDuQg86Tc9yucU6eGXWw==",
+  "dgSpecHash": "8jypkE7Iho5+Qa7NS/nf+S+MD1xWi0VAXAL9s0yYvJ/cNXl0wV3i56gmpNTGqJ9g/6jCP8AXBbPL3vGat4OFSw==",
   "success": true,
   "projectFilePath": "D:\\project\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,9 @@
     "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
     "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
     "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\minup\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
